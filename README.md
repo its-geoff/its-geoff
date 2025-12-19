@@ -20,6 +20,4 @@
 
 # My GitHub stats
 
-<h3>My GitHub contributions summary</h3>
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=its-geoff&hide_border=true&show_icons=true&bg_color=151515&title_color=90e0ef&icon_color=ade8f4&text_bold=false&text_color=9e9e9e)
